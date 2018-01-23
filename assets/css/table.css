@@ -1,0 +1,23 @@
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
+
+th, td {
+	vertical-align: top;
+}
+
+th:first-child {
+	width: 40%;
+}
+
+th {
+    height: 25px;
+    
+    margin: 0 0 0 0;
+    padding: 1em 2em 1em 2em;
+}

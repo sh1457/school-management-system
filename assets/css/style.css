@@ -1,0 +1,49 @@
+body {
+	background-color: #1D2731;
+	color: #E7DFDD;
+}
+
+h1 {
+	font-size: 1.4em;
+	color: #D9B310;
+}
+
+hr {
+	max-width: 98%;
+}
+
+#header {
+	width: 90%;
+	margin: 1em auto 0 auto;
+	padding; 0 0 0 0;
+	border: 1px solid green;
+	
+	background-color: #328CC1;
+	/*
+	color: yellow;
+	*/
+}
+
+.section {
+	width: 90%;
+	margin: 1em auto 0 auto;
+	padding; 0 0 0 0;
+	border: 1px solid green;
+	
+	background-color: #328CC1;
+	/*
+	color: yellow;
+	*/
+}
+
+#footer {
+	width: 90%;
+	margin: 1em auto 0 auto;
+	padding; 0 0 0 0;
+	border: 1px solid green;
+	
+	background-color: #328CC1;
+	/*
+	color: yellow;
+	*/
+}
